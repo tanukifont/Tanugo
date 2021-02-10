@@ -52,8 +52,6 @@ SIL Open Font Licenseの規定に基づき、フォントファイル単体（OT
 デザイン : [たぬきフォント](https://tanukifont.com/)
 お問い合わせがございましたらこのリポジトリ内でIssueを作成するか、またはたぬきフォントの[お問合せフォーム](https://tanukifont.com/contact-form/)、[Twitter](https://twitter.com/tanukizamurai)までご連絡をお願いいたします。
 
-![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_5.png)
-
-![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_6.png)
-
-![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_7.png)
+<img src="https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_5.png" width=50%>
+<img src="https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_6.png" width=50%>
+<img src="https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_7.png" width=50%>
