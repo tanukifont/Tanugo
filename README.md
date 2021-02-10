@@ -1,4 +1,4 @@
-![Font Image](https://github.com/tanukifont/YuseiMagic/blob/master/documentation/img/Tanugo_sample_1.png)
+![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_1.png)
 
 ## はじめに
 こちらはSIL Open Font Lisenseフォント『たぬゴ』の開発用レポジトリです。
@@ -24,11 +24,11 @@ SIL Open Font Licenseの詳細については後述いたしますが、非常�
 画の端が角張ったデザインの『たぬゴ角』と、丸みを帯びたデザインの『たぬゴ丸』の２種類を用意しました。
 『たぬゴ角』は極細・細・標準・太（ExtraLight・Light・Regular・Bold）の４ウェイト、『たぬゴ丸』は細丸・標準丸・太丸（Light・Regular・Bold）の３ウェイトを用意しています。
 
-![Font Image](https://github.com/tanukifont/YuseiMagic/blob/master/documentation/img/Tanugo_sample_2.png)
+![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_2.png)
 
-![Font Image](https://github.com/tanukifont/YuseiMagic/blob/master/documentation/img/Tanugo_sample_3.png)
+![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_3.png)
 
-![Font Image](https://github.com/tanukifont/YuseiMagic/blob/master/documentation/img/Tanugo_sample_4.png)
+![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_4.png)
 
 ## SIL Open Font License (SILオープンフォントライセンス) Version 1.1 について
 - 個人利用、商用利用に関わらず、使用用途を問わず無料で利用することができます。
@@ -46,3 +46,9 @@ SIL Open Font Licenseの規定に基づき、フォントファイル単体（OT
 ## 作成者とご連絡先
 デザイン : たぬきフォント　https://tanukifont.com/ 
 お問い合わせがございましたらこのリポジトリ内でIssueを作成するか、またはたぬきフォントの[お問合せフォーム](https://tanukifont.com/contact-form/)、[Twitter](https://twitter.com/tanukizamurai)までご連絡をお願いいたします。
+
+![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_5.png)
+
+![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_6.png)
+
+![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_7.png)
