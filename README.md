@@ -7,14 +7,19 @@
 ライセンスも『Yusei Magic』と同様に[SIL Open Font License（SILオープンフォントライセンス）](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)を継承しています。
 SIL Open Font Licenseの詳細については後述いたしますが、非常に緩やかなライセンスで、商用利用においても幅広くご活用いただけるフォントです。
 
+## 『たぬゴ』公式URL
+https://tanukifont.com/tanugo/
+
+
 ## 『たぬゴ』とは
-当サイトで公開しているフリーフォント『たぬき油性マジック』のリニューアル版フォントとして作成したフォントです。
+[たぬきフォント](https://tanukifont.com)で公開しているフリーフォント[『たぬき油性マジック』](https://tanukifont.com/tanuki-permanent-marker/)のリニューアル版フォントとして作成したフォントです。
 前作『たぬき油性マジック』の特徴である親しみやすさをキープしつつ、さらに使いやすく・読みやすく、かわいいタイプデザインを目指して作成したフォントです。
 商用・非商用問わず、広い範囲で無料でご自由にお使いいただけます。
 印刷物、グッズやパッケージ、ロゴデザインでの使用、Web上の画像やWebフォントに変換しての使用、放送や映像作品への使用、ゲームやアプリケーションへのフォント埋め込みやサブセット化、PDFファイルへの埋め込み利用も無償で利用できます。
 フォントファイルの改変や改変後の配布も、[SIL Open Font License（SILオープンフォントライセンス）](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)継承の条件の範囲内で可能です。
  
 ## 収録グリフ
+https://github.com/tanukifont/Tanugo/blob/master/documentation/Tanugo-Characters-List.txt
 ひらがな・カタカナ・英数字・記号、JIS第二水準までの漢字及びシフトIBM拡張漢字（計7,000文字以上）を収録しています。
 - 半角英数字、基本ラテン文字、キリル文字、ギリシャ文字など
 - ひらがな、カタカナ、全角英数、全角記号など
