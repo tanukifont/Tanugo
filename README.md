@@ -19,11 +19,11 @@ https://tanukifont.com/tanugo/
 フォントファイルの改変や改変後の配布も、[SIL Open Font License（SILオープンフォントライセンス）](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)継承の条件の範囲内で可能です。
  
 ## 収録グリフ
-https://github.com/tanukifont/Tanugo/blob/master/documentation/Tanugo-Characters-List.txt
 ひらがな・カタカナ・英数字・記号、JIS第二水準までの漢字及びシフトIBM拡張漢字（計7,000文字以上）を収録しています。
 - 半角英数字、基本ラテン文字、キリル文字、ギリシャ文字など
 - ひらがな、カタカナ、全角英数、全角記号など
 - 漢字（JIS第一水準、JIS第二水準、IBM拡張文字）
+[詳細はドキュメント内のリストをご参照ください。](https://github.com/tanukifont/Tanugo/blob/master/documentation/Tanugo-Characters-List.txt)
 
 ## デザイン・ウェイト
 画の端が角張ったデザインの『たぬゴ角』と、丸みを帯びたデザインの『たぬゴ丸』の２種類を用意しました。
@@ -49,7 +49,7 @@ SIL Open Font Licenseの規定に基づき、フォントファイル単体（OT
 フォントに誤字等を発見した方はお手数ですがメールフォームまたは作者Twitterにご連絡をいただければ幸いです。なるべく速やかに修正いたします。
 
 ## 作成者とご連絡先
-デザイン : たぬきフォント　https://tanukifont.com/ 
+デザイン : [たぬきフォント](https://tanukifont.com/)
 お問い合わせがございましたらこのリポジトリ内でIssueを作成するか、またはたぬきフォントの[お問合せフォーム](https://tanukifont.com/contact-form/)、[Twitter](https://twitter.com/tanukizamurai)までご連絡をお願いいたします。
 
 ![Font Image](https://github.com/tanukifont/Tanugo/blob/master/documentation/img/Tanugo_sample_5.png)
