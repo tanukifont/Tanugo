@@ -42,7 +42,7 @@ SIL Open Font Licenseの詳細については後述いたしますが、非常�
 ・このフォントを独自に調整したり改変して、派生フォントを作成することができます。ただし配布の際は下記の条件がございます。
 	SIL Open Font License Version 1.1 のライセンスで配布すること。（※すなわちフォントファイル単体での販売はできません）
 	フォント名に「Yusei Magic」「たぬゴ」を含めないこと。
-そのほか、SILライセンスについての詳細は、ライセンス原文日本語サイト（https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1）をご確認ください。
+そのほか、SILライセンスについての詳細は、ライセンス原文日本語サイト（https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html）をご確認ください。
 
 ■ご利用に関するお願い
 ・『たぬゴ』の著作権は制作者であるたぬき侍に帰属します。

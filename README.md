@@ -1,5 +1,7 @@
 ![Font Image](documentation/img/Tanugo_sample_1.png)
 
+*[English description is available below.](#about-tanugo-english)*
+
 ## はじめに
 こちらはSIL Open Font Licenseフォント『たぬゴ』の開発用リポジトリです。
 『たぬゴ』は、Google Fonts から支援を受けて制作したフォント『Yusei Magic』を改変し、新たにLightウェイトや角グリフを追加して作成したフォントです。
@@ -63,3 +65,32 @@ SIL Open Font Licenseの規定に基づき、フォントファイル単体（OT
 <img src="documentation/img/Tanugo_sample_5.png" width="50%">
 <img src="documentation/img/Tanugo_sample_6.png" width="50%">
 <img src="documentation/img/Tanugo_sample_7.png" width="50%">
+
+---
+
+## About Tanugo (English)
+
+**Tanugo** is a renewed handwriting-style Japanese font derived from **Yusei Magic** (originally developed with support from Google Fonts).  
+It retains the playful and approachable spirit of permanent marker handwriting while providing improved legibility and versatile styling for both display and text.
+
+### Styles & Weights
+Tanugo offers two design styles and multiple weights:
+- **Tanugo Kaku (角 / Square terminals)**: 4 weights (`ExtraLight`, `Light`, `Regular`, `Bold`)
+- **Tanugo Maru (丸 / Rounded terminals)**: 3 weights (`Light`, `Regular`, `Bold`)
+
+### Character Support (7,000+ glyphs)
+- **Latin & European**: Google Latin Core (Basic Latin, Western European diacritics, Cyrillic, Greek, etc.)
+- **Japanese**: Hiragana, Katakana, full-width alphanumerics, punctuation, and symbols
+- **Kanji**: JIS Level 1, JIS Level 2, and IBM Extended Kanji
+- Complete character list: [documentation/Tanugo-Characters-List.txt](documentation/Tanugo-Characters-List.txt)
+
+### License
+This font is released under the **[SIL Open Font License Version 1.1](OFL.txt)**.
+- Free for personal and commercial projects.
+- Bundling, embedding in apps, games, PDFs, and Web font usage are all permitted.
+- Modification and redistribution are allowed under the terms of the OFL.
+
+### Links
+- **Official Website**: [https://tanukifont.com/tanugo/](https://tanukifont.com/tanugo/)
+- **Author**: Tanuki Samurai ([Tanuki Font](https://tanukifont.com/))
+
